@@ -1,0 +1,15 @@
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\console-gırıs.exe
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\console-gırıs.deps.json
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\console-gırıs.runtimeconfig.json
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\console-gırıs.dll
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\ref\console-gırıs.dll
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\bin\Debug\net6.0\console-gırıs.pdb
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.dll
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\ref\console-gırıs.dll
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.pdb
+C:\Users\Uğur\Desktop\baslangıc\console-gırıs\obj\Debug\net6.0\console-gırıs.genruntimeconfig.cache
